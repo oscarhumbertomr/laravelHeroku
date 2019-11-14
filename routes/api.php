@@ -8,10 +8,10 @@ Route::get('/test', function (Request $request) {
 });
 
 
-Route::post('/register', 'AuthController@register');
-Route::post('/login', 'AuthController@login');
-Route::post('/logout', 'AuthController@logout');
-Route::get('/user', 'AuthController@user');
+Route::post('auth/register', 'AuthController@register');
+Route::post('auth/login', 'AuthController@login');
+Route::post('auth/logout', 'AuthController@logout');
+Route::get('auth/user', 'AuthController@user');
 
 /*Route::group([
 
