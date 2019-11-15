@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ad02c32-5c95-4993-93de-68dea089b86f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="2ad02c32-5c95-4993-93de-68dea089b86f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,16 +281,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573703722138</updated>
-      <workItem from="1573703723253" duration="3148000" />
+      <workItem from="1573703723253" duration="3547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3148000" />
+    <option name="totallyTimeSpent" value="3547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-908" y="-377" width="916" height="1456" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -301,7 +298,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.23960695" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23960695" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
