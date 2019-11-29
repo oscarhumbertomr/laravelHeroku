@@ -5,13 +5,13 @@ use Illuminate\Http\Request;
 
 Route::get('/test', function (Request $request) {
     return 'testing Heroku';
-})->middleware('auth');;
+})->middleware('auth');
 
 
-Route::post('auth/register', 'AuthController@register')->middleware('auth');;
+Route::post('auth/register', 'AuthController@register')->middleware('auth');
 Route::post('auth/login', 'AuthController@login');
 Route::post('auth/logout', 'AuthController@logout');
-Route::get('auth/user', 'AuthController@user')->middleware('auth');;
+Route::get('auth/user', 'AuthController@user')->middleware('auth');
 
 /*Route::group([
 
